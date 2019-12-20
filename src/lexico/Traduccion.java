@@ -56,19 +56,26 @@ public class Traduccion {
 "¿Be niggusa sagla nunmagge?",
 "¿Be niggusa uelesa?",
 "¿Be arbi baled osbidalgi?",
+"¿Be niggusa gannar boni?",
 "¿Be niggusa Suusuu?",
+"¿Be niggusa aggu be nunmagge?", 
 "¿Be niggusa uggaaimagged?",
+"¿Be niggusa disegad?",
+"¿Be niggusa abe abe dice be nanae?",
 "¿Gobed sigali?",
 "¿Gobed sisa?",
+"¿Gobed baid ina?",
 "¿Ingu nabbi igar be dagsa?",
 "¿Ingu be imagsa pap?",
 "¿Mimmigan war bigwa nigga?",
 "¿Mimmigan war bigwa neggi be niggusa?",
 "¿Mimmigan war bigwa osbidalgi be niggusa?",
+"¿Masgunned masi masdibyaled?",
 "¿Masgunned banebane sabbidurba dulemas?",
 "¿Masgunned masi nagege ossi?",
 "¿Gobed issee baabag isbe sole banebane?",
-"¿Niggued geggued?"
+"¿Niggued geggued?",
+"¿Niggued wileiddoged?"
 };
     
     public String[] getPregEsp(){
