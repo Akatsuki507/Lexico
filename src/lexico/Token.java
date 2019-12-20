@@ -47,7 +47,7 @@ enum TiposEspañol {
         CLAVEESTADOANIMO_E ("^(posee)$"),
         VERBO_E ("^(es|vive|padecido|sido|fue|hizo|tiene|tenido|pariste)$"),
         ADJETIVO_E ("^(su|tu|arterial|hospitalizado|otra|otras|fritos)$"),
-        SUSTANTIVO_E ("^(nombre|cédula|fecha|nacimiento|edad|diabetes|vómito|dolor|estómago|cabeza|fiebre|mareo|comezón|cigarrillos|alcohol|periodo|papanicolaou|casa|hospital|hijos|niños|alimentos|frutas|vegetales|azúcar|vasos|agua|fatiga|)$"),
+        SUSTANTIVO_E ("^(nombre|cédula|fecha|nacimiento|edad|hipertensión|diabetes|obesidad|asma|tuberculosis|cáncer|vómito|dolor|estómago|cabeza|garganta|huesos|mano|fiebre|nariz|mareo|enfermedad|mandíbula|comezón|diarrea|sangre|cigarrillos|alcohol|drogas|periodo|papanicolaou|casa|hospital|hijos|niños|alimentos|frutas|vegetales|azúcar|vasos|agua|fatiga|depresión|tristeza)$"),
         PREPOSICION_E ("^(de|en|con)$"),
         CONJUNCION_E ("^(o|y)$"),
         ARTICULO_E ("^(la|el)$"),

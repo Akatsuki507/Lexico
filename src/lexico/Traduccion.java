@@ -22,19 +22,26 @@ public class Traduccion {
 "¿Ha padecido dolor de cabeza?",
 "¿Ha padecido fiebre?",
 "¿Ha sido hospitalizado?",
+"¿Ha padecido otra enfermedad?",
 "¿Ha padecido mareo?",
+"¿Ha padecido dolor en la mandíbula?",
 "¿Ha padecido comezón?",
+"¿Ha padecido diarrea?",
+"¿Ha padecido diarrea con sangre?",
 "¿Consume cigarrillos?",
 "¿Consume alcohol?",
+"¿Consume otras drogas?",
 "¿Cuándo fue su último periodo?",
 "¿Cuándo se hizo el papanicolaou?",
 "¿Cuántos hijos tiene o ha tenido?",
 "¿Cuántos niños pariste en casa?",
 "¿Cuántos niños pariste en el hospital?",
+"¿Come alimentos fritos?",
 "¿Come diariamente frutas y vegetales?",
 "¿Come alimentos con mucha azúcar?",
 "¿Bebe al menos 8 vasos de agua diarios?",
 "¿Posee fatiga?",
+"¿Posee depresión o tristeza?"  
 };
          
     private String PregGun[] = {
@@ -61,7 +68,7 @@ public class Traduccion {
 "¿Masgunned banebane sabbidurba dulemas?",
 "¿Masgunned masi nagege ossi?",
 "¿Gobed issee baabag isbe sole banebane?",
-"¿Niggued geggued?",
+"¿Niggued geggued?"
 };
     
     public String[] getPregEsp(){
