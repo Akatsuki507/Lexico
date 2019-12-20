@@ -72,7 +72,7 @@ enum TiposEspañol {
         CLAVEESTADOANIMO_G ("^(niggued)$"),
         VERBO_G ("^(es|gudii|nigga|niggusa|war|arbi|dagsa|imagsa|warabbi|niggusa)$"),
         ADJETIVO_G ("^(ee|abe|baled|gannar|baid|masdibyaled)$"),
-        SUSTANTIVO_G ("^(benuga|bigwa|cédula|gwalulesa|birga|abossi|baabag|aged|nunmagge|saban|sagla|uelesa|suusuu|uggaaimagged|sigali|sisa|igar|pap|osbidalgi|neggi|masi|sabbidurba|dulemas|ossi|isbe|sole|geggued)$"),
+        SUSTANTIVO_G ("^(benuga|bigwa|cédula|gwalulesa|birga|irmagged|binna|suli|abossi|baabag|nanae|dice|wardad|gullugullud|isddar|wiagged|cáncer|aged|nunmagge|saban|sagla|gammu|gar|argan|uelesa|asu|suusuu|boni|aggu|uggaaimagged|disegad|sigali|sisa|ina|igar|pap|osbidalgi|neggi|masi|sabbidurba|dulemas|ossi|isbe|sole|geggued|wileiddoged|wileiddoged)$"),
         ADVERBIO_G ("^(nabbi|banebane|banebane|nagege|issee)$"),
         SIGNO_DE_INTERROGACIÓNA_G("[¿]"),
         SIGNO_DE_INTERROGACIÓNC_G("[?]"),
